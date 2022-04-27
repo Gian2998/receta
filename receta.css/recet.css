@@ -1,0 +1,48 @@
+
+
+
+body {
+    margin: 50px;
+    padding: 50px 100px; 
+   
+    background-color: antiquewhite;
+    
+}
+h1 {
+    color:#ff6347;
+    background-color: rgba(78, 90, 104, 0.192);
+
+
+}
+  .parrafo{
+    background-color: rgba(184, 186, 189, 0.11);
+  }
+.textocentrado {
+ 
+    text-align: center ;
+
+}
+img {
+    width: 60% ;
+    height: 350px;
+    margin-left: 18%;
+}
+
+iframe {
+
+    margin-left: 21%;
+
+}
+
+.or {
+ width: 300px;
+ 
+ 
+}
+ 
+
+.mapa {
+               margin-left: 1cm;
+               top: 200px;
+  }
+  
